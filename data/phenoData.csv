@@ -1,0 +1,10 @@
+name,species,tissue,cell_line,condition,data_id,sequencing_method
+1,Mus Musculus,Liver,NULL,Young,mm_liver_young.csv,ONE-seq
+2,Mus Musculus,Liver,NULL,Aged,mm_liver_aged.csv,ONE-seq
+3,Canis lupus familiaris,Peripheral Blood,PBMC,Control_D0,cf_pbmc_control_d0.csv,ONE-seq
+4,Canis lupus familiaris,Peripheral Blood,PBMC,Control_D14,cf_pbmc_control_d14.csv,ONE-seq
+5,Canis lupus familiaris,Peripheral Blood,PBMC,NMN_D0,cf_pbmc_nmn_d0.csv,ONE-seq
+6,Canis lupus familiaris,Peripheral Blood,PBMC,NMN_D14,cf_pbmc_nmn_d14.csv,ONE-seq
+7,Homo sapiens,Peripheral Blood,PBMC,Young,hg_pbmc_young.csv,DO-seq
+8,Homo sapiens,Peripheral Blood,PBMC,Middle,hg_pbmc_middle.csv,DO-seq
+9,Homo sapiens,Peripheral Blood,PBMC,Old,hg_pbmc_old.csv,DO-seq
